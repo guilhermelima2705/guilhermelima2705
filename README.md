@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Lima! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na UniAmérica e cursando o Técnico em Informática na ETB. Atualmente em transição de carreira para a área de Tecnologia, com foco total em **Desenvolvimento Backend utilizando Java**.
+Estudante de Análise e Desenvolvimento de Sistemas na UniAmérica e formado no Técnico em Informática na Escola Técnica de Brasília. Atualmente em transição de carreira para a área de Tecnologia.
 
 ### 🛠️ Minhas Tech Skills:
 
